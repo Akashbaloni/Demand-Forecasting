@@ -1,6 +1,6 @@
 ﻿# 📦 Weekly Demand Forecasting — Stock Planner
 
-[![CI](https://github.com/Akashbal1209/Demand-Forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/Akashbal1209/Demand-Forecasting/actions/workflows/ci.yml)
+[![CI](https://github.com/Akashbaloni/Demand-Forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/Akashbaloni/Demand-Forecasting/actions/workflows/ci.yml)
 
 Forecast how many units of each product a UK online gift retailer will sell in each of the **next 8 weeks**, and turn that forecast into a simple stock decision: **how much stock to keep**.
 
@@ -269,7 +269,7 @@ Demand_Forecasting/
 ## Run it locally (Windows / PowerShell)
 
 ```powershell
-git clone https://github.com/Akashbal1209/Demand-Forecasting.git
+git clone https://github.com/Akashbaloni/Demand-Forecasting.git
 cd Demand-Forecasting
 python -m venv venv
 .\venv\Scripts\Activate.ps1
